@@ -9,7 +9,7 @@ public class Config {
     static {
         URL url = null;
         try {
-            url = new URL("https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58c5d68f_xyz-reader/xyz-reader.json" );
+            url = new URL("https://gist.githubusercontent.com/electron0zero/07a1cddde7948d72dc2c0a12163f92fa/raw/0df255624a2690b6a88dfa13586554ac717a37fa/data.json" );
         } catch (MalformedURLException ignored) {
             // TODO: throw a real error
         }
