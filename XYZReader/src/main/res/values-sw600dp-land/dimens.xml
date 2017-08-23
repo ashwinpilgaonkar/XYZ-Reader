@@ -1,0 +1,4 @@
+<resources>
+    <!-- detail -->
+    <dimen name="image_detail_height">345sp</dimen>
+</resources>
