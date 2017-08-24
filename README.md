@@ -41,4 +41,3 @@ Git clone and import in Android Studio
 ### 10" Tablet
 ![10"TabletUI MainPage Landscape](https://github.com/ashwinpilgaonkar/XYZ-Reader/blob/master/Screenshots/tablet10-main-land.png)
 ![10"TabletUI DetailPage Landscape](https://github.com/ashwinpilgaonkar/XYZ-Reader/blob/master/Screenshots/tablet10-detail-land.png)
-![10"TabletUI DetailPage Portrait](https://github.com/ashwinpilgaonkar/XYZ-Reader/blob/master/Screenshots/tablet10-detail-portrait.png)
