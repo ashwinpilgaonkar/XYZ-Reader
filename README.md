@@ -15,8 +15,6 @@ Git clone and import in Android Studio
 ![PhoneUI MainPage Portrait](https://github.com/ashwinpilgaonkar/XYZ-Reader/blob/master/Screenshots/phone-main-portrait-before.png)
 ![PhoneUI DetailPage Portrait](https://github.com/ashwinpilgaonkar/XYZ-Reader/blob/master/Screenshots/phone-detail-portrait-before.png)
 ![PhoneUI DetailPage Landscape](https://github.com/ashwinpilgaonkar/XYZ-Reader/blob/master/Screenshots/phone-detail-land-before.png)
-<br>
-<br>
 
 # Improvements Made
 * Used the design support library and its provided widget types: FloatingActionButton, AppbarLayout, SnackBar, etc.
@@ -27,14 +25,13 @@ Git clone and import in Android Studio
 * Improved overall color scheme
 * Optimised for Mobile & Tablet
 * Fully adheres to Material Design Guidelines
-    
+<br>
+
 # Screenshots (After)
 ### Phone
 ![PhoneUI MainPage Portrait](https://github.com/ashwinpilgaonkar/XYZ-Reader/blob/master/Screenshots/phone-main-portrait.png)
 ![PhoneUI DetailPage Portrait](https://github.com/ashwinpilgaonkar/XYZ-Reader/blob/master/Screenshots/phone-detail-portrait.png)
 ![PhoneUI DetailPage Landscape](https://github.com/ashwinpilgaonkar/XYZ-Reader/blob/master/Screenshots/phone-detail-land.png)
-<br>
-<br>
 <br>
 
 ### 7" Tablet
@@ -42,8 +39,6 @@ Git clone and import in Android Studio
 ![7"TabletUI DetailPage Portrait](https://github.com/ashwinpilgaonkar/XYZ-Reader/blob/master/Screenshots/tablet7-detail-portrait.png)
 ![7"TabletUI MainPage Landscape](https://github.com/ashwinpilgaonkar/XYZ-Reader/blob/master/Screenshots/tablet7-main-land.png)
 ![7"TabletUI DetailPage Landscape](https://github.com/ashwinpilgaonkar/XYZ-Reader/blob/master/Screenshots/tablet7-detail-land.png)
-<br>
-<br>
 <br>
 
 ### 10" Tablet
