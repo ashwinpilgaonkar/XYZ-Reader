@@ -22,6 +22,23 @@ Git clone and import in Android Studio
 * Fully adheres to Material Design Guidelines
     
 # Screenshots
+
 ## Before
+
 ## After 
 
+### Phone
+![PhoneUI MainPage Portrait](https://github.com/ashwinpilgaonkar/XYZ-Reader/blob/master/Screenshots/phone-main-portrait.png)
+![PhoneUI DetailPage Portrait](https://github.com/ashwinpilgaonkar/XYZ-Reader/blob/master/Screenshots/phone-detail-portrait.png)
+![PhoneUI DetailPage Landscape](https://github.com/ashwinpilgaonkar/XYZ-Reader/blob/master/Screenshots/phone-detail-land.png)
+
+### 7" Tablet
+![7"TabletUI MainPage Portrait](https://github.com/ashwinpilgaonkar/XYZ-Reader/blob/master/Screenshots/tablet7-main-portrait.png)
+![7"TabletUI DetailPage Portrait](https://github.com/ashwinpilgaonkar/XYZ-Reader/blob/master/Screenshots/tablet7-detail-portrait.png)
+![7"TabletUI MainPage Landscape](https://github.com/ashwinpilgaonkar/XYZ-Reader/blob/master/Screenshots/tablet7-main-land.png)
+![7"TabletUI DetailPage Landscape](https://github.com/ashwinpilgaonkar/XYZ-Reader/blob/master/Screenshots/tablet7-detail-land.png)
+
+### 10" Tablet
+![10"TabletUI MainPage Landscape](https://github.com/ashwinpilgaonkar/XYZ-Reader/blob/master/Screenshots/tablet10-main-land.png)
+![10"TabletUI DetailPage Landscape](https://github.com/ashwinpilgaonkar/XYZ-Reader/blob/master/Screenshots/tablet10-detail-land.png)
+![10"TabletUI DetailPage Portrait](https://github.com/ashwinpilgaonkar/XYZ-Reader/blob/master/Screenshots/tablet10-detail-portrait.png)
